@@ -6,6 +6,18 @@ using System.Threading.Tasks;
 using System.Drawing;
 using System.Drawing.Imaging;
 
+
+
+//------------------------------------------------------------------------------
+// Uradio sam samo zadatak 6) E. Hafmanov algoritam nisam uspeo da implementiram
+//
+// U slucaju problema, na ovom linku imate celu verziju projekta: 
+//
+//  https://github.com/Jakov1970/MMS-Lab4
+//
+//------------------------------------------------------------------------------
+
+
 namespace MMS
 {
     public class BillAtkinsonAlgoritam : DitheringBase

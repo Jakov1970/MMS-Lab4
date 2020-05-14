@@ -44,8 +44,6 @@
             this.pBoxGreen = new System.Windows.Forms.PictureBox();
             this.pBoxBlue = new System.Windows.Forms.PictureBox();
             this.pBoxReconstructed = new System.Windows.Forms.PictureBox();
-            this.loadPicToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.saveAsPicToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxHist_1)).BeginInit();
@@ -73,9 +71,7 @@
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.loadToolStripMenuItem,
             this.saveToolStripMenuItem,
-            this.exitToolStripMenuItem,
-            this.loadPicToolStripMenuItem,
-            this.saveAsPicToolStripMenuItem});
+            this.exitToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
             this.fileToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
             this.fileToolStripMenuItem.Text = "File";
@@ -233,8 +229,6 @@
         private System.Windows.Forms.ToolStripMenuItem orderedDitheringToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sierraDitheringToolStripMenuItem;
         public System.Windows.Forms.PictureBox pBoxReconstructed;
-        private System.Windows.Forms.ToolStripMenuItem loadPicToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem saveAsPicToolStripMenuItem;
     }
 }
 

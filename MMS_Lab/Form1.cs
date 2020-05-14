@@ -10,6 +10,19 @@ using System.Windows.Forms;
 using System.Drawing.Imaging;
 using System.Collections;
 
+
+
+
+//------------------------------------------------------------------------------
+// Uradio sam samo zadatak 6) E. Hafmanov algoritam nisam uspeo da implementiram
+//
+// U slucaju problema, na ovom linku imate celu verziju projekta: 
+//
+//  https://github.com/Jakov1970/MMS-Lab4
+//
+//------------------------------------------------------------------------------
+
+
 namespace MMS
 {
     public partial class Form1 : Form
