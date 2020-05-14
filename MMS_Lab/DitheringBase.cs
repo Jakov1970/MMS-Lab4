@@ -9,7 +9,7 @@ using System.Drawing.Imaging;
 
 
 
-//------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
 // Uradio sam samo zadatak 6) E. Hafmanov algoritam nisam uspeo da implementiram
 //
 // U slucaju problema, na ovom linku imate celu verziju projekta: 
